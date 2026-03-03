@@ -113,9 +113,9 @@ function makeIcon(color) {
   return L.divIcon({
     html: svg,
     className: '',
-    iconSize: [12, 12],
-    iconAnchor: [6, 6],
-    popupAnchor: [0, -8]
+    iconSize: [18, 18],
+    iconAnchor: [9, 9],
+    popupAnchor: [0, -11]
   });
 }
 
