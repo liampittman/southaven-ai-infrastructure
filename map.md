@@ -214,12 +214,10 @@ function makeIcon(color) {
 
   // ── Legend ───────────────────────────────────────────────────────────────
   function pinSVG(color) {
-    return '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="21" viewBox="0 0 24 36"'
-      + ' style="flex-shrink:0;margin-right:8px;">'
-      + '<path fill="' + color + '" stroke="#fff" stroke-width="1.5" '
-      + 'd="M12 0C5.373 0 0 5.373 0 12c0 9 12 24 12 24S24 21 24 12C24 5.373 18.627 0 12 0z"/>'
-      + '<circle fill="#fff" cx="12" cy="12" r="4"/>'
-      + '</svg>';
+  return '<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12"'
+    + ' style="flex-shrink:0;margin-right:8px;">'
+    + '<circle cx="6" cy="6" r="5" fill="' + color + '" stroke="#fff" stroke-width="1.5"/>'
+    + '</svg>';
   }
 
   var legend = L.control({ position: 'bottomleft' });
