@@ -6,7 +6,7 @@ layout: default
 # Musk/xAI Data Center Sites
 
 **Author:** William Pittman
-**Last Updated:** [Date pending]
+**Last Updated:** 3 March 2026
 
 This map documents Musk/xAI data center and related infrastructure sites in the Southaven, MS and Memphis, TN area, including supercomputer installations, proposed facilities, and associated properties.
 
