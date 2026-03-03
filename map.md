@@ -115,9 +115,9 @@ document.addEventListener("DOMContentLoaded", function () {
     return L.divIcon({
       html: svg,
       className: '',
-      iconSize: [24, 36],
-      iconAnchor: [12, 36],
-      popupAnchor: [0, -38]
+      iconSize: [18, 27],
+      iconAnchor: [9, 27],
+      popupAnchor: [0, -29]
     });
   }
 
