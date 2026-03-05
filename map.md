@@ -168,7 +168,7 @@ function makeIcon(color) {
           layer.bindPopup(buildPopup(
             'Whitehaven',
             'Neighborhood in Memphis, Tenn.',
-            'The neighborhood in Memphis, Tenn., where Colossus 2 is located.'
+            'The Memphis neighborhood where xAI's Colossus 2 data center is located.'
           ));
         }
       }).addTo(map);
@@ -186,7 +186,7 @@ function makeIcon(color) {
           layer.bindPopup(buildPopup(
             'Colonial Hills',
             'Neighborhood in Southaven, Miss.',
-            'A neighborhood in Southaven, Miss., near the unpermitted turbines. Read more <a href="https://www.mississippifreepress.org/as-musks-xai-data-centers-encroach-on-southaven-north-mississippi-residents-push-back/" target="_blank">here</a>.'
+            'A residential neighborhood on the wester side of in Southaven, Mississippi. The neighborhood is due east of the xAI energy plant housing the unpermitted gas turbines. Read more <a href="https://www.mississippifreepress.org/as-musks-xai-data-centers-encroach-on-southaven-north-mississippi-residents-push-back/" target="_blank">here</a>.'
           ));
         }
       }).addTo(map);
